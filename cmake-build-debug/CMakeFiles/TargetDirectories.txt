@@ -1,0 +1,3 @@
+C:/Users/Blajan David/faculta/sem 2 - sda/TAD Colectie/cmake-build-debug/CMakeFiles/TAD_Colectie.dir
+C:/Users/Blajan David/faculta/sem 2 - sda/TAD Colectie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blajan David/faculta/sem 2 - sda/TAD Colectie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
